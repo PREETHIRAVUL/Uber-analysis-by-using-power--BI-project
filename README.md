@@ -34,6 +34,7 @@ Fare	Fare amount ($)
 Payment Method	Cash, Wallet, Card
 Vehicle Type	UberX, Uber Black, XL, Green
 Trip Type	Day / Night
+
 🔹 Methodology
 
 Data Cleaning & Transformation – handled missing values and standardized formats.
